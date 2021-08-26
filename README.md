@@ -1,7 +1,7 @@
 
 ### Hi there 👋
-I’m currently working on my fnf site https://vackyton.github.io/FNFMods/ 
-If you are a coder that can code haxefixel can you help me?
+I’m currently working on my fnf site
+If you can port mods online please contact me Vackyton#6510
 Cause right now I can't code and I don't now how to port mods cause google thinks i want multiplayer
                                                   Some things I made
 ![WhittyCrazy (1)](https://user-images.githubusercontent.com/79385929/128584952-5b5e2eba-3534-41c2-8822-3ed599d7eff0.png)
