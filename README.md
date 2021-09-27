@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-Vackyton#6510
+
                                    My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vackyton&theme=radical&show_icons=true)
 
