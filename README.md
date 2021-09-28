@@ -12,5 +12,4 @@
 My Channel,Twitch, and Discord!https://linktr.ee/vackytonplayz
 
 check out sum things I made <a href = "https://github.com/vackyton/Vackyton/blob/main/mystuff.md">here</a>
-                  |
-                 \/
+
