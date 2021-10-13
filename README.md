@@ -3,6 +3,10 @@
 
 <p style = "text-align:center;">My Stats</p>
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vackyton&theme=radical&show_icons=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vackyton&&theme=radical&repo=MyPythonScripts)](https://github.com/vackyton/MyPythonScripts)
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vackyton&show_icons=true&theme=radical&locale=en&langs_count=10&layout=compact" alt="vacky" /></p>
